@@ -1,1 +1,1 @@
-# sep10-freedom-projects
+# sep10-freedom-project
